@@ -3,7 +3,7 @@
 #### Currently studying at 42 Málaga
 <br>
 <p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/manujime?1337Badge=off" alt="manujime's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/manujime?1337Badge=off" alt="manujime's 42 stats" /></a>
 </p>
 <br>
 

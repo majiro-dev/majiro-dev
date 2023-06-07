@@ -1,6 +1,6 @@
 ### Hello there!
 
-#### Currently studyng at 42 Málaga
+#### Currently studying at 42 Málaga
 
 
 ## :pushpin: Github status

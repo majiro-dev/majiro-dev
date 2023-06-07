@@ -1,7 +1,11 @@
 ### Hello there!
 
 #### Currently studying at 42 Málaga
-
+<br>
+<p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/manujime?1337Badge=off" alt="marirodr's 42 stats" /></a>
+</p>
+<br>
 
 ## :pushpin: Github status
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majiro1996&show_icons=true&locale=en&layout=compact" alt="majiro1996" /></p>

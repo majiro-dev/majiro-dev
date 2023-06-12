@@ -4,6 +4,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cliliqisb004908kyi7j0gzsk/stats?cursusId=21&coalitionId=276" alt="manujime's 42 stats" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=majiro1996)](https://git.io/streak-stats)
 </p>
 <br>
 

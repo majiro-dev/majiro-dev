@@ -11,8 +11,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majiro1996&show_icons=true&locale=en&layout=compact" alt="majiro1996" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majiro1996&show_icons=true&locale=en" alt="majiro1996" /></p>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=majiro1996" alt="GitHub Streak">
+  </a>
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=majiro1996)](https://git.io/streak-stats)
 <!--
 this is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

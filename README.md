@@ -8,16 +8,23 @@
 <br>
 
 ## :pushpin: Github status
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=majiro1996&show_icons=true&locale=en&layout=compact" alt="majiro1996" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majiro1996&show_icons=true&locale=en" alt="majiro1996" /></p>
+<div style="display: flex; flex-direction: row; align-items: center;flex-wrap: wrap">
+    <div>
+      <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=majiro1996&show_icons=true&locale=en&layout=compact" alt="majiro1996" /></p>
+    </div>
+    <div>
+      <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=majiro1996&show_icons=true&locale=en" alt="majiro1996" /></p>
+    </div>
+    <div>
+      <p align="center"><img src="https://streak-stats.demolab.com/?user=majiro1996" alt="GitHub Streak"><p>
+    </div>
 </div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=majiro1996" alt="GitHub Streak">
-  </a>
-</div>
+
+
+
+
+
 
 <!--
 this is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

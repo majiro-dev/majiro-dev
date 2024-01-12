@@ -7,8 +7,6 @@
 </p>
 <br>
 
-## :pushpin: Github status
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vim,vscode,visualstudio,docker,linux" />

@@ -9,12 +9,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,vscode,visualstudio,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=git,vim,vscode,visualstudio,docker,linux,postgres,bash" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,html,css,py,django" />
   </a>
 </p>
 <p align="center">

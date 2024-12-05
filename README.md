@@ -26,23 +26,23 @@
  <!-- https://gh-stats-gen.vercel.app/ -->
 <div align="center">
     
-![majiro1996's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=majiro1996&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![majiro-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=majiro-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
     
-![majiro1996's Stats](https://github-readme-stats.vercel.app/api?username=majiro1996&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![majiro-dev's Stats](https://github-readme-stats.vercel.app/api?username=majiro-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<!-- ![majiro1996's Streak](https://github-readme-streak-stats.herokuapp.com/?user=majiro1996&theme=vue-dark&hide_border=true) -->
+<!-- ![majiro-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=majiro-dev&theme=vue-dark&hide_border=true) -->
 
 </div>
 <!--
 <div style="display: flex; flex-direction: row; align-items: center;flex-wrap: wrap">
     <div>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=majiro1996&show_icons=true&locale=en&layout=compact&token=${process.env.PAT_1}" alt="majiro1996" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=majiro-dev&show_icons=true&locale=en&layout=compact&token=${process.env.PAT_1}" alt="majiro-dev" /></p>
 </div>
 <div>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=majiro1996&show_icons=true&locale=en&token=${process.env.PAT_1}" alt="majiro1996" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=majiro-dev&show_icons=true&locale=en&token=${process.env.PAT_1}" alt="majiro-dev" /></p>
 </div>
     <div>
-      <p align="center"><img src="https://streak-stats.demolab.com/?user=majiro1996" alt="GitHub Streak"><p>
+      <p align="center"><img src="https://streak-stats.demolab.com/?usermajiro-dev" alt="GitHub Streak"><p>
     </div>
 </div>
 -->

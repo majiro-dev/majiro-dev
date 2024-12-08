@@ -1,11 +1,11 @@
 <h1 align="center">Hello there!</h1>
 
 <h3 align="center">Currently studying at 42 Málaga </h3>
-<br>
+<!-- <br>
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/manujime?1337Badge=off&UM6P=off" alt="manujime's 42 stats" /></a>
 </p>
-<br>
+<br> -->
 
 <p align="center">
   <a href="https://skillicons.dev">
